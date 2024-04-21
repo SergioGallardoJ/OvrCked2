@@ -1,0 +1,3 @@
+SteamOverlay32.dll
+StubDRM32.dll
+OnlineFix.dll
